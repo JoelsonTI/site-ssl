@@ -59,7 +59,7 @@
     <section id="services" class="services">
         <h2>Nossos Serviços</h2>
         <ul>
-            <li>Instalação de câmeras de segurança (HD, Full HD, 4K)</li>
+            <li>Instalação de câmeras de segurança (HD, Full HD, 4K) </li>
             <li>Sistemas de alarmes e monitoramento</li>
             <li>Cercas elétricas e concertinas</li>
             <li>Automatização de portões</li>
