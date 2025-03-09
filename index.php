@@ -74,9 +74,9 @@
 
     <section id="contact" class="contact">
         <h2>Entre em Contato</h2>
-        <p><strong>Telefone:</strong> (84) XXXX-XXXX</p>
-        <p><strong>Email:</strong> contato@jhlseguranca.com.br</p>
-        <p><strong>Endereço:</strong> Nova Parnamirim, RN, Brasil</p>
+        <p><strong>Telefone:</strong> (82) 99624-2366</p>
+        <p><strong>Email:</strong> joelsonti@outlook.com</p>
+        <p><strong>Endereço:</strong> Penedo, AL, Brasil</p>
     </section>
 
     <footer>
